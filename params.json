@@ -1,0 +1,13 @@
+{
+    "fromemail": "prajwal.more7730@gmail.com",
+    "toemail": "prajwalmore336@gmail.com",
+    "smtpuser": "prajwal.more7730@gmail.com",
+    "ccemail": "",
+    "bccemail": "",
+    "password": "YOUR_EMAIL_PASSWORD",
+    "client": "testlogin",
+    "user": "student",
+    "pwd": "Password123",
+    "loginpage": "https://practicetestautomation.com/practice-test-login/",
+    "nextpage": "https://practicetestautomation.com/logged-in-successfully/"
+}
